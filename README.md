@@ -20,4 +20,4 @@
 <a href="https://linkedin.com/in/yash-pawar2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-pawar2" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashpawar2-analyst&show_icons=true&locale=en" alt="yashpawar2-analyst" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-pawar2&show_icons=true&locale=en" alt="yash-pawar2" /></p>
