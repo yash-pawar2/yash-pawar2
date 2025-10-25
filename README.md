@@ -18,9 +18,9 @@
 
 <h3>PROJECTS:</h3>
 
-| Project Name | Description                  | SKILLS USED      | Link               |
-|--------------|------------------------------|----------------|------------------|
-| Retail-Transaction-Dashboard | Monitors seasonal sales patterns and trends. |  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1068058-Icon-PowerBI" alt="Power BI" width="40" height="40"/> </a> , <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://res.cdn.office.net/files/fabric-cdn-prod_20251010.003/assets/brand-icons/product/svg/excel_16x1.svg" alt="Power BI" width="40" height="40"/> </a>  | [Repo](https://github.com/yash-pawar2/Retail-Transaction-Dashboard)      |
+| Project Name | Description                  | SKILLS USED      | About Data           | Link               |
+|--------------|------------------------------|----------------|------------------|------------------|
+| Retail-Transaction-Dashboard | Monitors seasonal sales patterns and trends. |  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1068058-Icon-PowerBI" alt="Power BI" width="40" height="40"/> </a> POWER BI <br> <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://res.cdn.office.net/files/fabric-cdn-prod_20251010.003/assets/brand-icons/product/svg/excel_16x1.svg" alt="Power BI" width="40" height="40"/> </a> EXCEL |TOTAL DATA:13M <br> COLUMNS:13 <br> ROWS:13L| [Repo](https://github.com/yash-pawar2/Retail-Transaction-Dashboard)      | 
 
 
 <h3 align="left">Connect with me:</h3>
