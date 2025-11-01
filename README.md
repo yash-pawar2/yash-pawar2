@@ -1,31 +1,44 @@
-<h1 align="center">Hi 👋, I'm YASH PAWAR</h1>
+  # 👋 Hi, I'm Yash Pawar  
+🎯 **Aspiring Data Analyst | MIT-WPU | SQL | Python | Power BI**
 
-<h3 align="center">Aspiring Data Analyt from MIT WPU</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-pawar2&label=Profile%20views&color=0e75b6&style=flat" alt="yash-pawar2" /> </p>
+### 🚀 About Me
+I'm passionate about turning raw data into meaningful insights and visual stories.  
+Currently, I'm sharpening my analytical skills in **SQL, Python, and Power BI**, while building real-world projects that simulate industry problems.
 
-- 🔭 I’m currently working on *my skills*
+📫 **Reach me at:** [Yash.r.pawar246@gmail.com](mailto:Yash.r.pawar246@gmail.com)  
+🌐 **Portfolio:** [github.com/yash-pawar2](https://github.com/yash-pawar2)
 
-- 🌱 I’m currently learning *SQL*
+---
 
-- 📫 How to reach me *Yash.r.pawar246@gmail.com*
+### 🛠️ Skills
 
-<h3>SKILLS:</h3>
+**Languages:**  
+`Python` • `C++` • `HTML5` • `CSS3`
 
-| <h3 align="left">Languages :</h3> | <h3 align="left">Libraries :</h3> | <h3 align="left">Tools :</h3> |
-|-----------|-----------|-----------|
-| <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>   | <p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_static/logo_dark.svg" alt="matplotlib" width="40" height="40"/> </a></p> | <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1068058-Icon-PowerBI" alt="Power BI" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://res.cdn.office.net/files/fabric-cdn-prod_20251010.003/assets/brand-icons/product/svg/excel_16x1.svg" alt="Power BI" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" alt="Power BI" width="40" height="40"/> </a> |
+**Libraries:**  
+`Pandas` • `NumPy` • `Matplotlib` • `Scikit-learn`
 
-<h3>PROJECTS:</h3>
+**Tools:**  
+`Power BI` • `Excel` • `GitHub`
 
-| Project Name | Description                  | SKILLS USED      | About Data           | Link               |
-|--------------|------------------------------|----------------|------------------|------------------|
-| Retail-Transaction-Dashboard <br> (Case Study) | Monitors seasonal sales patterns and trends. |  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1068058-Icon-PowerBI" alt="Power BI" width="40" height="40"/> </a> POWER BI <br> <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://res.cdn.office.net/files/fabric-cdn-prod_20251010.003/assets/brand-icons/product/svg/excel_16x1.svg" alt="Power BI" width="40" height="40"/> </a> EXCEL |TOTAL DATA:13M <br> COLUMNS:13 <br> ROWS:13L| [Repo](https://github.com/yash-pawar2/Retail-Transaction-Dashboard)      | 
+---
 
+### 📊 Featured Project
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yash-pawar2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-pawar2" height="30" width="40" /></a>
-</p>
+#### 🛍️ Retail Transaction Dashboard (Case Study)
+- **Goal:** Monitored seasonal sales trends and purchasing patterns.  
+- **Tech Stack:** Power BI, Excel  
+- **Dataset Size:** 13 million records (13 columns × 1.3M rows)  
+- **Outcome:** Discovered top-performing product categories and high-demand periods.  
+- **View Project:** 🔗 [GitHub Repository](https://github.com/yash-pawar2/Retail-Transaction-Dashboard)
+
+---
+
+### 🤝 Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yash-pawar2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-pawar2)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Yash.r.pawar246@gmail.com)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-pawar2&show_icons=true&locale=en" alt="yash-pawar2" /></p>
