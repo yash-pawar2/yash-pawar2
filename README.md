@@ -18,7 +18,7 @@ Currently, I'm sharpening my analytical skills in **SQL, Python, and Power BI**,
 `Python` • `C++` • `HTML5` • `CSS3`
 
 **Libraries:**  
-`Pandas` • `NumPy` • `Matplotlib` • `Scikit-learn`
+`Pandas` • `NumPy` • `Matplotlib` • `Scikit-learn` • `beautiful soup`
 
 **Tools:**  
 `Power BI` • `Excel` • `GitHub`
