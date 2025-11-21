@@ -35,12 +35,12 @@ Currently, I'm sharpening my analytical skills in **SQL, Python, and Power BI**,
 - **View Project:** 🔗 [GitHub Repository](https://github.com/yash-pawar2/Retail-Transaction-Dashboard)
 
 
-####🐚 Abalone Age Prediction & Analysis (Case Study)  
-**Goal:** Analyzed biological measurements to understand patterns and predict abalone age.  
-**Tech Stack:** Python, Pandas, NumPy, Matplotlib.
-**Dataset Size:** 4,177 records (9 biological features)  
-**Outcome:** Identified strong correlations between size/weight measurements and age; built a machine-learning model achieving 80%+ accuracy.  
-**View Project:** [🔗 GitHub Repository](https://github.com/yash-pawar2/Abolone_dataset_cleaning/blob/main/README.md)
+#### 🐚 Abalone Age Prediction & Analysis (Case Study)  
+-**Goal:** Analyzed biological measurements to understand patterns and predict abalone age.  
+-**Tech Stack:** Python, Pandas, NumPy, Matplotlib.
+-**Dataset Size:** 4,177 records (9 biological features)  
+-**Outcome:** Identified strong correlations between size/weight measurements and age; built a machine-learning model achieving 80%+ accuracy.  
+-**View Project:** [🔗 GitHub Repository](https://github.com/yash-pawar2/Abolone_dataset_cleaning/blob/main/README.md)
 
 ---
 
