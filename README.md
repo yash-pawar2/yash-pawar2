@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Yash Pawar  
-🎯 Aspiring Data Analyst | MIT-WPU | SQL | Python | Power BI
+🎯 Data Enthusiast| MIT-WPU | SQL | Python | Power BI
 
 ---
 
 ### 🚀 About Me
-I am a data-driven analyst and aspiring researcher passionate about extracting meaningful insights and solving real-world problems using data.  
-Currently pursuing **B.Sc. in Applied Statistics & Data Analytics at MIT World Peace University (CGPA: 9.05)**.  
-I love transforming raw datasets into impactful visual stories and actionable conclusions.
+I am a data-driven learner and aspiring researcher who enjoys extracting meaningful insights from data to address real-world challenges. Currently pursuing a B.Sc. in Applied Statistics & Data Analytics at MIT World Peace University (CGPA: 9.05), I’m building a strong foundation in statistics, programming, and analytical thinking.
+
+I love transforming raw datasets into clear stories and actionable conclusions, using analytical tools and visualizations to support smarter decisions and impactful outcomes.
 
 📍 Pune, Maharashtra, India  
 📫 Email: **yash.r.pawar246@gmail.com**  
