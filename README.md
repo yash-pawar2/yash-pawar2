@@ -1,52 +1,91 @@
-  # 👋 Hi, I'm Yash Pawar  
-🎯 **Aspiring Data Analyst | MIT-WPU | SQL | Python | Power BI**
+# 👋 Hi, I'm Yash Pawar  
+🎯 Aspiring Data Analyst | MIT-WPU | SQL | Python | Power BI
 
 ---
 
 ### 🚀 About Me
-I'm passionate about turning raw data into meaningful insights and visual stories.  
-Currently, I'm sharpening my analytical skills in **SQL, Python, and Power BI**, while building real-world projects that simulate industry problems.
+I am a data-driven analyst and aspiring researcher passionate about extracting meaningful insights and solving real-world problems using data.  
+Currently pursuing **B.Sc. in Applied Statistics & Data Analytics at MIT World Peace University (CGPA: 9.05)**.  
+I love transforming raw datasets into impactful visual stories and actionable conclusions.
 
-📫 **Reach me at:** [Yash.r.pawar246@gmail.com](mailto:Yash.r.pawar246@gmail.com)  
-🌐 **Portfolio:** [github.com/yash-pawar2](https://github.com/yash-pawar2)
-
----
-
-### 🛠️ Skills
-
-**Languages:**  
-`Python` • `C++` • `HTML5` • `CSS3`
-
-**Libraries:**  
-`Pandas` • `NumPy` • `Matplotlib` • `Scikit-learn` • `beautiful soup`
-
-**Tools:**  
-`Power BI` • `Excel` • `GitHub`
+📍 Pune, Maharashtra, India  
+📫 Email: **yash.r.pawar246@gmail.com**  
+🔗 LinkedIn: **www.linkedin.com/in/yash-pawar2**  
+🌐 GitHub Portfolio: **https://github.com/yash-pawar2**
 
 ---
 
-### 📊 Featured Project
+### 📊 Featured Projects
 
-#### 🛍️ Retail Transaction Dashboard (Case Study)
-- **Goal:** Monitored seasonal sales trends and purchasing patterns.  
-- **Tech Stack:** Power BI, Excel  
-- **Dataset Size:** 13 million records (13 columns × 1.3M rows)  
-- **Outcome:** Discovered top-performing product categories and high-demand periods.  
-- **View Project:** 🔗 [GitHub Repository](https://github.com/yash-pawar2/Retail-Transaction-Dashboard)
+#### 🛍️ Retail Transaction Dashboard
+- **Goal:** Analyze seasonal trends & customer purchase behavior  
+- **Tech:** Power BI, Excel  
+- **Data Size:** 1.3M rows, 13 columns  
+- **Results:** Identified top revenue categories & peak sale periods  
+🔗 Repo: https://github.com/yash-pawar2/Retail-Transaction-Dashboard
+
+#### 🐚 Abalone Age Prediction & Analysis
+- **Goal:** Predict age using biological features  
+- **Tech:** Python, ML algorithms  
+- **Data Size:** 4,177 rows, 9 features  
+- **Results:** Built ML model with **80%+ accuracy**  
+🔗 Repo: https://github.com/yash-pawar2/Abolone_dataset_cleaning
+
+---
+
+### 🛠️ Skills & Technologies
+
+#### Programming Languages:
+`Python` • `R` • `SQL` • `C++` • `HTML5` • `CSS3`
+
+#### Data Science Libraries:
+`Pandas` • `NumPy` • `Matplotlib` • `Scikit-learn` • `BeautifulSoup`
+
+#### Tools:
+`Power BI` • `Tableau` • `Excel` • `Git` • `Jupyter Notebook`
+
+#### Concepts:
+Data Cleaning • Statistical Modeling • Hypothesis Testing • Data Visualization • Machine Learning
+
+#### Languages:
+English • Hindi • Marathi
+
+---
+
+### 🏆 Certifications
+- **Statistics**
+- **Deloitte Data Analytics Job Simulation**
+- **Tata Data Visualisation Job Simulation**  
+  _(Insights & Dashboard Reporting)_
 
 
-#### 🐚 Abalone Age Prediction & Analysis (Case Study)  
-- **Goal:** Analyzed biological measurements to understand patterns and predict abalone age.  
-- **Tech Stack:** Python, Pandas, NumPy, Matplotlib.
-- **Dataset Size:** 4,177 records (9 biological features)  
-- **Outcome:** Identified strong correlations between size/weight measurements and age; built a machine-learning model achieving 80%+ accuracy.  
-- **View Project:** [🔗 GitHub Repository](https://github.com/yash-pawar2/Abolone_dataset_cleaning/blob/main/README.md)
+---
+
+### 🏛️ Experience
+**Member — Numerates Club, MIT-WPU**  
+Jul 2025 – Present  
+- Organizing Math + Tech events  
+- Weekly problem-solving sessions  
+- Improved team & analytical skills
+
+---
+
+### 📚 Education
+**MIT World Peace University**  
+Bachelor of Science — Applied Statistics & Data Analytics  
+(2024–2028)
 
 ---
 
 ### 🤝 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yash-pawar2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-pawar2)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Yash.r.pawar246@gmail.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-pawar2&show_icons=true&locale=en" alt="yash-pawar2" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-pawar2)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yash-pawar2)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yashp020406@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yash-pawar2&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
