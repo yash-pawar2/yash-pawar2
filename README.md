@@ -28,7 +28,7 @@ I love transforming raw datasets into clear stories and actionable conclusions, 
 - **Goal:** Predict age using biological features  
 - **Tech:** Python, ML algorithms  
 - **Data Size:** 4,177 rows, 9 features  
-- **Results:** Built ML model with **80%+ accuracy**  
+**Results:** Achieved **83.97% pseudo accuracy** using Random Forest with improved regression performance (**MAE: 1.57**, **R²: 0.53**)  
 🔗 Repo: https://github.com/yash-pawar2/Abolone_dataset_cleaning
 
 ---
