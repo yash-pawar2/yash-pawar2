@@ -85,7 +85,3 @@ Bachelor of Science — Applied Statistics & Data Analytics
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash-pawar2&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
