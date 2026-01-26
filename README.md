@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-I am a data-driven learner and aspiring researcher who enjoys extracting meaningful insights from data to address real-world challenges. Currently pursuing a B.Sc. in Applied Statistics & Data Analytics at MIT World Peace University (CGPA: 9.05), I’m building a strong foundation in statistics, programming, and analytical thinking.
+I am a data-driven learner and aspiring researcher who enjoys extracting meaningful insights from data to address real-world challenges. Currently pursuing a B.Sc. in Applied Statistics & Data Analytics at MIT World Peace University , I’m building a strong foundation in statistics, programming, and analytical thinking.
 
 I love transforming raw datasets into clear stories and actionable conclusions, using analytical tools and visualizations to support smarter decisions and impactful outcomes.
 
@@ -70,9 +70,7 @@ English • Hindi • Marathi
 ### 🏛️ Experience
 **Member — Numerates Club, MIT-WPU**  
 Jul 2025 – Present  
-- Organizing Math + Tech events  
-- Weekly problem-solving sessions  
-- Improved team & analytical skills
+- Department of Math and Tech   
 
 ---
 
