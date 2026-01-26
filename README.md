@@ -36,7 +36,7 @@ I love transforming raw datasets into clear stories and actionable conclusions, 
 - **Tech:** Python (Pandas, Scikit-learn), Matplotlib, Seaborn
 - **Data Size:** 13,910 rows, 7 features  
 **Results:** Built an interpretable Linear Regression model explaining **86%** of price variance **($R^2$: 0.86, MAE: ₹36,820)** while uncovering a 0.91 correlation between security deposits and rent
-- 🔗 Repo: https://github.com/yash-pawar2/Abolone_dataset_cleaning
+- 🔗 Repo: https://github.com/yash-pawar2/India_Rental_Market_Analysis_-_Price_Prediction
 ---
 
 ### 🛠️ Skills & Technologies
