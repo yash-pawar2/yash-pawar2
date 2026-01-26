@@ -22,15 +22,21 @@ I love transforming raw datasets into clear stories and actionable conclusions, 
 - **Tech:** Power BI, Excel  
 - **Data Size:** 1.3M rows, 13 columns  
 - **Results:** Identified top revenue categories & peak sale periods  
-🔗 Repo: https://github.com/yash-pawar2/Retail-Transaction-Dashboard
+- 🔗 Repo: https://github.com/yash-pawar2/Retail-Transaction-Dashboard
 
 #### 🐚 Abalone Age Prediction & Analysis
 - **Goal:** Predict age using biological features  
 - **Tech:** Python, ML algorithms  
 - **Data Size:** 4,177 rows, 9 features  
 **Results:** Achieved **83.97% pseudo accuracy** using Random Forest with improved regression performance (**MAE: 1.57**, **R²: 0.53**)  
-🔗 Repo: https://github.com/yash-pawar2/Abolone_dataset_cleaning
+- 🔗 Repo: https://github.com/yash-pawar2/Abolone_dataset_cleaning
 
+#### 🏠 India Rental Market Analysis & Price Prediction
+- **Goal:** Understand urban housing trends and predict monthly rent using structural and financial indicators 
+- **Tech:** Python (Pandas, Scikit-learn), Matplotlib, Seaborn
+- **Data Size:** 13,910 rows, 7 features  
+**Results:** Built an interpretable Linear Regression model explaining **86%** of price variance **($R^2$: 0.86, MAE: ₹36,820)** while uncovering a 0.91 correlation between security deposits and rent
+- 🔗 Repo: https://github.com/yash-pawar2/Abolone_dataset_cleaning
 ---
 
 ### 🛠️ Skills & Technologies
