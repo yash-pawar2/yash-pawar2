@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Yash Pawar  
 🎯 Data Enthusiast| MIT-WPU | SQL | Python | Power BI
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-pawar2&label=Profile%20views&color=0e75b6&style=flat" alt="yash-pawar2" /> </p>
 ---
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-pawar2&label=Profile%20views&color=0e75b6&style=flat" alt="yash-pawar2" /> </p>
 ### 🚀 About Me
 I am a data-driven learner and aspiring researcher who enjoys extracting meaningful insights from data to address real-world challenges. Currently pursuing a B.Sc. in Applied Statistics & Data Analytics at MIT World Peace University , I’m building a strong foundation in statistics, programming, and analytical thinking.
 
