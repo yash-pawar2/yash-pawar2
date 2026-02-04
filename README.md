@@ -61,11 +61,12 @@ English • Hindi • Marathi
 ---
 
 ### 🏆 Certifications
-- **Statistics**
 - **Deloitte Data Analytics Job Simulation**
-- **Tata Data Visualisation Job Simulation**  
+  - Completed hands-on simulation creating Tableau dashboards and Excel-based business analysis for client scenarios
+- **Tata Data Visualisation Job Simulation**
+  - Developed executive-level data visualizations and insights presentations for strategic decision-making 
   _(Insights & Dashboard Reporting)_
-
+- **Statistics**
 
 ---
 
