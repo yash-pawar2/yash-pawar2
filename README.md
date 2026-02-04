@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Yash Pawar  
 🎯 Data Enthusiast| MIT-WPU | SQL | Python | Power BI
-
----
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-pawar2&label=Profile%20views&color=0e75b6&style=flat" alt="yash-pawar2" /> </p>
+---
 
 ### 🚀 About Me
 I am a data-driven learner and aspiring researcher who enjoys extracting meaningful insights from data to address real-world challenges. Currently pursuing a B.Sc. in Applied Statistics & Data Analytics at MIT World Peace University , I’m building a strong foundation in statistics, programming, and analytical thinking.
@@ -36,7 +35,7 @@ I love transforming raw datasets into clear stories and actionable conclusions, 
 - **Goal:** Understand urban housing trends and predict monthly rent using structural and financial indicators 
 - **Tech:** Python (Pandas, Scikit-learn), Matplotlib, Seaborn
 - **Data Size:** 13,910 rows, 7 features  
-**Results:** Built an interpretable Linear Regression model explaining **86%** of price variance **($R^2$: 0.86, MAE: ₹36,820)** while uncovering a 0.91 correlation between security deposits and rent
+-**Results:** Built an interpretable Linear Regression model explaining **86%** of price variance **($R^2$: 0.86, MAE: ₹36,820)** while uncovering a 0.91 correlation between security deposits and rent
 - 🔗 Repo: https://github.com/yash-pawar2/India_Rental_Market_Analysis_-_Price_Prediction
 ---
 
@@ -84,9 +83,7 @@ Bachelor of Science — Applied Statistics & Data Analytics
 
 ### 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-pawar2)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yash-pawar2)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yashp020406@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-pawar2)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yash-pawar2)[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yashp020406@gmail.com)
 
 ---
 
