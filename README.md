@@ -70,11 +70,13 @@ English • Hindi • Marathi
 
 ---
 
-### 🏛️ Experience
-**Member — Numerates Club, MIT-WPU**  
-Jul 2025 – Present  
-- Department of Math and Tech   
+### 🏛️ Experience  
+**Active Member — Numerates Club**
+Mathematics Department, MIT World Peace University
+Oct 2025 – Present
 
+- Collaborated with cross-functional teams on educational content and technical workshops
+- Built analytical thinking, teamwork, and communication skills through project-based work
 ---
 
 ### 📚 Education
