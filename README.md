@@ -2,7 +2,7 @@
 🎯 Data Enthusiast| MIT-WPU | SQL | Python | Power BI
 ---
 
- 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-pawar2&label=Profile%20views&color=0e75b6&style=flat" alt="yash-pawar2" /> </p>
 
 ### 🚀 About Me
