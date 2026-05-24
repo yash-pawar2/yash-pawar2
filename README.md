@@ -10,6 +10,8 @@ I am a data-driven learner and aspiring researcher who enjoys extracting meaning
 
 I love transforming raw datasets into clear stories and actionable conclusions, using analytical tools and visualizations to support smarter decisions and impactful outcomes.
 
+🌱 Currently exploring: Advanced Machine Learning Algorithms
+
 📍 Pune, Maharashtra, India  
 📫 Email: **yash.r.pawar246@gmail.com**  
 🔗 LinkedIn: **www.linkedin.com/in/yash-pawar2**  
@@ -31,13 +33,13 @@ I love transforming raw datasets into clear stories and actionable conclusions, 
 - **Tech:** Python, ML algorithms  
 - **Data Size:** 4,177 rows, 9 features  
 **Results:** Achieved **83.97% pseudo accuracy** using Random Forest with improved regression performance (**MAE: 1.57**, **R²: 0.53**)  
-- 🔗 Repo: https://github.com/yash-pawar2/Abalone_dataset_cleaning
+- 🔗 Repo: https://github.com/yash-pawar2/Abalone_Age_Prediction
 
 #### 🏠 India Rental Market Analysis & Price Prediction
 - **Goal:** Understand urban housing trends and predict monthly rent using structural and financial indicators 
 - **Tech:** Python (Pandas, Scikit-learn), Matplotlib, Seaborn
 - **Data Size:** 13,910 rows, 7 features  
--**Results:** Built an interpretable Linear Regression model explaining **86%** of price variance **($R^2$: 0.86, MAE: ₹36,820)** while uncovering a 0.91 correlation between security deposits and rent
+-**Results:** Built an interpretable Linear Regression model explaining **86%** of price variance **(R²: 0.86, MAE: ₹36,820)** while uncovering a 0.91 correlation between security deposits and rent
 - 🔗 Repo: https://github.com/yash-pawar2/India_Rental_Market_Analysis_-_Price_Prediction
 ---
 
@@ -61,13 +63,14 @@ English • Hindi • Marathi
 ---
 
 ### 🏆 Certifications
-- **Deloitte Data Analytics Job Simulation**
+- **Deloitte Data Analytics Job Simulation**  — Forage *(Oct 2025)*
   - Completed hands-on simulation creating Tableau dashboards and Excel-based business analysis for client scenarios
-- **Tata Data Visualisation Job Simulation**
+- **Tata Data Visualisation Job Simulation**  — Forage *(Nov 2025)*
   - Developed executive-level data visualizations and insights presentations for strategic decision-making 
   _(Insights & Dashboard Reporting)_
-- **Statistics**
-
+ - **Statistics for Data Science** — LinkedIn Learning *(Oct 2024)*
+   - Covered probability distributions, hypothesis testing,
+and confidence intervals with hands-on Python labs.
 ---
 
 ### 🏛️ Experience  
@@ -87,9 +90,13 @@ Oct 2025 – Mar 2026
 ---
 
 ### 📚 Education
-**MIT World Peace University**  
+**MIT World Peace University**    
 Bachelor of Science — Applied Statistics & Data Analytics  
 (2024–2028)
+
+---
+
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-pawar2&show_icons=true&theme=default)
 
 ---
 
