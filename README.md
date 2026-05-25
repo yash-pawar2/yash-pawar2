@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Yash Pawar  
-🎯 Data Enthusiast| MIT-WPU | SQL | Python | Power BI
+🎯 Data Enthusiast | MIT-WPU | SQL | Python | Power BI
 ---
 
 
