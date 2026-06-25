@@ -49,7 +49,7 @@ I love transforming raw datasets into clear stories and actionable conclusions, 
 `Python` • `R` • `SQL` • `C++` • `HTML5` • `CSS3`
 
 #### Data Science Libraries:
-`Pandas` • `NumPy` • `Matplotlib` • `Scikit-learn` • `BeautifulSoup`
+`Pandas` • `NumPy` •`SCiPy`•`SeaBorn` • `Matplotlib` • `Scikit-learn` • `BeautifulSoup`
 
 #### Tools:
 `Power BI` • `Tableau` • `Excel` • `Git` • `Jupyter Notebook`
